@@ -1,0 +1,7 @@
+Z:\2312785_NguyenThanhTruc_Lab3\XML\bin\Debug\XML.exe.config
+Z:\2312785_NguyenThanhTruc_Lab3\XML\bin\Debug\XML.exe
+Z:\2312785_NguyenThanhTruc_Lab3\XML\bin\Debug\XML.pdb
+Z:\2312785_NguyenThanhTruc_Lab3\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+Z:\2312785_NguyenThanhTruc_Lab3\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+Z:\2312785_NguyenThanhTruc_Lab3\XML\obj\Debug\XML.exe
+Z:\2312785_NguyenThanhTruc_Lab3\XML\obj\Debug\XML.pdb
